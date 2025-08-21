@@ -6,12 +6,12 @@
     },
     {
       "source": "/(.*)",
-      "destination": "/frontend"
+      "destination": "/Frontend"
     }
   ],
   "builds": [
     {
-      "src": "frontend/package.json",
+      "src": "Frontend/package.json",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "dist"
