@@ -1,0 +1,157 @@
+chapter_images:
+Chapter 1.jpg
+Chapter 2.jpg
+Chapter 3.jpg
+Chapter 4.jpg
+Chapter 5.jpg
+Chapter 6.jpg
+Chapter 7.jpg
+Chapter 8.jpg
+Chapter 9.jpg
+Chapter 10.jpg
+Chapter 11.jpg
+
+
+chapter_section_images:
+Epilogue.jpg
+The Beach.jpg
+The Resort.jpg
+2425 Constance.jpg
+Pushing Inland.jpg
+The Confrontation.jpg
+The Escape.jpg
+The Farm.jpg
+The Island.jpg
+Return to the Aquarium.jpg
+The Marina.jpg
+Ground Zero.jpg
+Return to the Coast.jpg
+The Coast.jpg
+The Descent.jpg
+The Shortcut.jpg
+The Forest.jpg
+Winter Visit.jpg
+Hostile Territory.jpg
+On Foot.jpg
+The Aquarium.jpg
+The Forward Base.jpg
+The Stadium.jpg
+Tracking Lesson.jpg
+Infiltration.jpg
+The Flooded City.jpg
+Road to the Aquarium.jpg
+St. Mary's Hospital.jpg
+Finding Strings.jpg
+The Seraphites.jpg
+Hillcrest.jpg
+The Birthday Gift.jpg The Theater.jpg
+The Tunnels.jpg
+Capitol Hill.jpg
+Channel 13.jpg
+Downtown.jpg
+Eastbrook Elementary.jpg
+Packing Up.jpg
+The Chalet.jpg
+The Gate.jpg
+Patrol.jpg
+Prologue.jpg
+The Horde.jpg
+The Overlook.jpg
+Waking Up.jpg
+
+
+character_images:
+Abby icon.jpeg
+Alice icon.jpeg
+Dina icon.jpeg
+Ellie icon.jpeg
+Emily icon.jpeg
+Isaac icon.jpeg
+Jerry icon.jpeg
+Jesse icon.jpeg
+Joel icon.jpeg
+Jordan icon.jpeg
+Lev icon.jpeg
+Manny icon.jpeg
+Maria icon.jpeg
+Mel icon.jpeg
+Nick icon.jpeg
+Nora icon.jpeg
+Owen icon.jpeg
+Seth icon.jpeg
+Tommy icon.jpeg
+Whitney icon.jpeg
+Yara icon.jpeg
+
+enemy_images:
+Bloaters.jpeg
+Clickers.jpeg
+Dogs.jpeg
+Rattlers.jpeg
+Runners.jpeg
+Seraphites.jpeg
+Shamblers.jpeg
+Stalkers.jpeg
+The Rat King.jpeg
+WLF.jpeg
+
+safe_images:
+Across From Gym.jpg
+Apartment Bedroom.jpg
+Apartment.jpg
+Auto Repair Shop.jpg
+Bank Vault.jpg
+Big Win Safe.jpg
+Boat Control Room.jpg
+Courthouse.jpg
+First Gate.jpg
+Jasmine Bakery.jpg
+Locker Room.jpg
+Super Market.jpg
+Thrift Store.jpg
+West Gate 2.jpg
+Weston's Pharmacy.jpg
+
+trophy_images:
+Bronze.jpg
+Gold.jpg
+Platinum.jpg
+Silver.jpg
+
+weapon_images:
+Switchblade.jpg
+Baton.jpg
+Machete.jpg
+Axe.jpg
+Pickaxe.jpg
+Pipe Wrench.jpg
+Pipe.jpg
+Hammer.jpg
+Health Kit.jpg
+Shiv.jpg
+Club.jpg
+Sickle.jpg
+2x4.jpg
+Pipe Bomb.jpg
+Trap Mine.jpg
+Stun Bomb.jpg
+Molotov.jpg
+Brick.jpg
+Bottle.jpg
+Silenced Submachine Gun.jpg
+Flamethrower.jpeg
+Crossbow.jpeg
+Double Barrel Shotgun.jpeg
+Semi-Auto Rifle.jpg
+Bow.jpg
+Pump Shotgun.jpg
+Bolt-Action Rifle.jpg
+Military Pistol.jpeg
+Hunting Pistol.jpg
+Revolver.jpg
+Semi-Auto Pistol.jpg
+
+
+
+
+
