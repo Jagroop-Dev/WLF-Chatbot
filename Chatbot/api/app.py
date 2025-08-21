@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # NOTE: This path should be relative to     your project's root or an absolute path.
-FAISS_DB_PATH = '../Backend/FAISS Database/'
+FAISS_DB_PATH = './FAISS Database/'
 
 # Load vector store only once when the app starts
 # This is analogous to Streamlit's caching but for a Flask app
